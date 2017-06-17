@@ -1,3 +1,4 @@
 C:\Users\Ludwig Ahrle\Desktop\GameFabric\GameFabric\SeaBreeze.App\obj\x64\Debug\GameFabric.App.sfprojResolveAssemblyReference.cache
 C:\Users\Ludwig Ahrle\Desktop\GameFabric\GameFabric\GameFabric.App\obj\x64\Debug\GameFabric.App.sfprojResolveAssemblyReference.cache
 C:\Users\Ludwig Ahrle\Desktop\GameFabricGit\Samples\Unity_Tanks\GameFabric\GameFabric.App\obj\x64\Debug\GameFabric.App.sfprojResolveAssemblyReference.cache
+C:\Users\斧头MacWin\Documents\GameFabric\Samples\Unity_Tanks\GameFabric\GameFabric.App\obj\x64\Debug\GameFabric.App.sfprojResolveAssemblyReference.cache
